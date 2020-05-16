@@ -34,5 +34,5 @@ data-modeling-postgre
 ```
  
 ### Database Schema 
-![Star Schema](DataModeling-Postgres/star_schema.jpg)
+![Star Schema](https://github.com/Yuexi-Li/Data-Engineering/blob/master/DataModeling-Postgres/star_schema.jpg)
 

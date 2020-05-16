@@ -19,13 +19,13 @@ data-modeling-postgre
 |
 └----- data         # Data Source in JSON  (Not provided)
 |	   |
-|      └----- song_data   
+|    └----- song_data   
 |	   |            |...
-|      └----- log_data 
-|	   				|... 
+|    └----- log_data 
+|	   |... 
 |
 └------scr          # Source Code 
-|		|
+|		     |
 |       └------ sql_queries.py        # Drop/Create/Insert sql queries 
 |       └------ create_tables.py      # Schema create sript
 |       └------ elt.py                # ETL script

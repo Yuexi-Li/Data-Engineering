@@ -7,7 +7,7 @@ Sparkify is an starup and the analytics team is particularly interested in under
 This project aims to create Postgres database with tables designed to optimize queries on song play analysis as a data engineer. The task is to create a star schema for Postgres and develop an ETL pipleine which will transfer the data from local files to the database.
 
 ### Requirements and Framework 
-- Python 3  *(pandas| numpy| psycopg2 | glob) 
+- Python 3  *(pandas| numpy| psycopg2 | glob |ipython-sql) 
 - Postgre SQL Database 
 -  Jupyter Notebook
 

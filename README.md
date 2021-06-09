@@ -56,3 +56,5 @@ This repository contains 6 passed projects of the [Data Engineering Program](htt
 </tr>
 </tbody>
 </table>
+                
+![](DataEngineerCertificate.png)
